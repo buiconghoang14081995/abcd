@@ -1,2 +1,1 @@
-del
-del 2
+del all
