@@ -1,9 +1,1 @@
-del all
-b1 branch
-compare
-fix
-aaa
-create by master
-create by b1
-create by b1 branch
-ok, fix conflict in b1 branch
+b1 del all
