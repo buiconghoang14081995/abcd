@@ -1,12 +1,1 @@
-..stash start
-del all
-b1 branch
-compare
-fix
-aaa
-create by b1 branch
-..stash end
-
-chagne master 1
-
-chagne master 2
+b1 del all
