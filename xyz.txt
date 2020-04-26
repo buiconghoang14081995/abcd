@@ -6,3 +6,5 @@ fix
 aaa
 create by b1 branch
 ..stash end
+
+chagne master 1
